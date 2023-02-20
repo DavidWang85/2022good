@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DavidWang85/2022good/static/css/main.720c6398.css",
+    "main.js": "/DavidWang85/2022good/static/js/main.ca8b30b1.js",
+    "index.html": "/DavidWang85/2022good/index.html",
+    "main.720c6398.css.map": "/DavidWang85/2022good/static/css/main.720c6398.css.map",
+    "main.ca8b30b1.js.map": "/DavidWang85/2022good/static/js/main.ca8b30b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.720c6398.css",
+    "static/js/main.ca8b30b1.js"
+  ]
+}
